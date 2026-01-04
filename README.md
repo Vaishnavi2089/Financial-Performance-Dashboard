@@ -23,7 +23,7 @@ It provides key business insights related to revenue, expenses, profit, and prof
 
 ## 🔗 Live Dashboard
 👉## 🔗 Live Dashboard
-👉 [Click here to view the Tableau Dashboard](tableau_public_link.txt)
+👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/vaishnavi.gupta7889/viz/Book1_17671729818980/FinancialPerformanceDashboard?publish=yes)
 
 
 ## 📌 Author
