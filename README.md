@@ -1,2 +1,32 @@
-# Financial-Performance-Dashboard
-Tableau dashboard analyzing revenue, expenses, net profit, and profit margin using financial data.
+# 📊 Financial Performance Dashboard (Tableau)
+
+## 🔍 Project Overview
+This project presents an **interactive Financial Performance Dashboard** created using **Tableau Public**.  
+It provides key business insights related to revenue, expenses, profit, and profitability trends.
+
+## 🎯 Key KPIs
+- Total Revenue
+- Total Expense
+- Net Profit
+- Profit Margin %
+
+## 📈 Visualizations Included
+- Revenue vs Expense Trend (Month-wise)
+- Department-wise Expense Analysis
+- Region-wise Net Profit Distribution
+- KPI Cards with Conditional Coloring
+
+## 🛠 Tools & Technologies
+- Tableau Public
+- Data Visualization & Analytics
+- KPI Design & Dashboard Layouting
+
+## 🔗 Live Dashboard
+👉## 🔗 Live Dashboard
+👉 [Click here to view the Tableau Dashboard](tableau_public_link.txt)
+
+
+## 📌 Author
+**Vaishnavi Gupta**  
+Aspiring Data Analyst | Tableau | SQL | Python
+
